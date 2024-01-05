@@ -13,37 +13,37 @@ function Sidebar({openSidebarToggle, OpenSidebar}) {
       </div>
       <ul className='sb-list'>
         <li className='sb-list-item'>
-          <a href=''>
+          <a href="www.fakelink.com">
             <BsGrid1X2Fill className='icon'/> Dashboard
           </a>
         </li>
         <li className='sb-list-item'>
-          <a href=''>
+          <a href="www.fakelink.com">
             <BsFillArchiveFill className='icon'/> Products
           </a>
         </li>
         <li className='sb-list-item'>
-          <a href=''>
+          <a href="www.fakelink.com">
             <BsFillGrid3X3GapFill className='icon'/> Categories
           </a>
         </li>
         <li className='sb-list-item'>
-          <a href=''>
+          <a href="www.fakelink.com">
             <BsPeopleFill className='icon'/> Customers
           </a>
         </li>
         <li className='sb-list-item'>
-          <a href=''>
+          <a href="www.fakelink.com">
             <BsListCheck className='icon'/> Inventory
           </a>
         </li>
         <li className='sb-list-item'>
-          <a href=''>
+          <a href="www.fakelink.com">
             <BsMenuButtonWideFill className='icon'/> Reports
           </a>
         </li>
         <li className='sb-list-item'>
-          <a href=''>
+          <a href="www.fakelink.com">
             <BsFillGearFill className='icon'/> Setting
           </a>
         </li>
